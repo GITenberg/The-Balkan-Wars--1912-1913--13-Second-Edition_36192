@@ -1,0 +1,35 @@
+_repo: The-Balkan-Wars--1912-1913--13-Second-Edition_36192
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schurman, Jacob Gould
+    alias: Schurman, J. G. (Jacob Gould)
+    birthdate: 1854
+    deathdate: 1942
+    gutenberg_agent_id: '4066'
+    url: http://www.gutenberg.org/2009/agents/4066
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Gould_Schurman
+description: The Balkan League (Serbia, Montenegro, Greece, and Bulgaria) first conquered
+  Ottoman-held Macedonia and most of Thrace and then fell out over the division of
+  the spoils. Tensions among the Balkan states over their rival aspirations to the
+  provinces of Ottoman-occupied Roumelia, namely Eastern Roumelia, Thrace and Macedonia,
+  subsided somewhat following intervention by the Great Powers in the mid-19th century,
+  aimed at securing both fuller protection for the provinces' Christian majority and
+  protection of the status quo. By 1867 Greece, Serbia and Montenegro have all secured
+  their independence.
+gutenberg_issued: '2011-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Balkan Peninsula -- History -- War of 1912-1913'
+title: "The Balkan Wars: 1912-1913\r\nSecond Edition"
+url: http://www.gutenberg.org/ebooks/36192
